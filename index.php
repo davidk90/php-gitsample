@@ -13,7 +13,7 @@
 </head>
 <body>
 	<section class="congratulations">
-		<h1>I LIKE AWS EB  X <?php $int = 4234; echo $int; ?>!</h1>
+		<h1>FROM GITHUB BRO X <?php $int = 4234; echo $int; ?>!</h1>
 		<p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
 		<p>You are running PHP version <?php echo phpversion(); ?></p>
 		<aside>(&nbsp;<a href="info.php">View PHP information</a>&nbsp;)</aside>
