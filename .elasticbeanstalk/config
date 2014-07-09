@@ -1,0 +1,6 @@
+[global]
+ApplicationName=My First Elastic Beanstalk Application
+DevToolsEndpoint=git.elasticbeanstalk.us-east-1.amazonaws.com
+EnvironmentName=Default-Environment
+Region=us-east-1
+AwsCredentialFile=/Users/kimminau/.elasticbeanstalk/aws_credential_file
