@@ -13,7 +13,7 @@
 </head>
 <body>
 	<section class="congratulations">
-		<h1>YOU ARE AWESOME X <?php $int = 15; echo $int; echo dog; $apple = timedog(); header('location:ww.dogogo.com');  ?>!</h1>
+		<h1>YOU ARE AWESOME X <?php $int = 4234; echo $int; ?>!</h1>
 		<p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
 		<p>You are running PHP version <?php echo phpversion(); ?></p>
 		<aside>(&nbsp;<a href="info.php">View PHP information</a>&nbsp;)</aside>
